@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FirefoxNava
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in FullStack Development
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on Node-js
 
 <!---
