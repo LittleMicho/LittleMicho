@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Michael
-- 👀 I’m interested in FullStack Development
-- 💞️ I’m looking to collaborate on Node-js
+- 👀 I’m interested in C++ and Kotlin
 
 <!---
 FirefoxNava/FirefoxNava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
